@@ -18,7 +18,7 @@ export default async function Page({searchParams}) {
   return (
     <div>
       <h1 className="text-5xl mb-9 text-accent-400 font-medium">
-        Our Available Cabins
+        Our Available Rooms
       </h1>
       <p className="text-primary-200 text-lg mb-10">
         Nestled in the heart of the majestic Himalayas, our hotel in Shimla
