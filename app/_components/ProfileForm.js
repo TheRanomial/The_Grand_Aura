@@ -49,7 +49,7 @@ function ProfileForm({ children,guest}) {
       </div>
 
       <div className="flex justify-end items-center gap-6">
-       <SubmitButton/>
+       <SubmitButton label="Update Profile"/>
       </div>
     </form>
   );

@@ -90,7 +90,7 @@ function ReservationForm({ cabin, session }) {
               Start by selecting dates
             </p>
           ) : (
-            <SubmitButton/>
+            <SubmitButton label="Reserve"/>
           )}
         </div>
       </form>

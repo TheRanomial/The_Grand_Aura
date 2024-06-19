@@ -16,7 +16,7 @@ export default async function Page() {
         <div className="space-y-8">
           <p>
             Where nature&apos;s beauty and comfortable living blend seamlessly.
-            Hidden away in the heart of the Italian Dolomites, this is your
+            Hidden away in the heart of the Shimla, this is your
             paradise away from home. But it&apos;s not just about the luxury
             cabins. It&apos;s about the experience of reconnecting with nature
             and enjoying simple pleasures with family.
@@ -55,17 +55,16 @@ export default async function Page() {
 
         <div className="space-y-8">
           <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
+            Since 1962, The Grand Aura has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we&apos;ve maintained the essence of The Wild Oasis,
+            Over the years, we&apos;ve maintained the essence of The Grand Aura,
             blending the timeless beauty of the mountains with the personal
             touch only a family business can offer. Here, you&apos;re not just a
-            guest; you&apos;re part of our extended family. So join us at The
-            Wild Oasis soon, where tradition meets tranquility, and every visit
+            guest; you&apos;re part of our extended family. So join us at The Grand aura soon, where tradition meets tranquility, and every visit
             is like coming home.
           </p>
 
@@ -74,7 +73,7 @@ export default async function Page() {
               href="/cabins"
               className="inline-block mt-4 bg-accent-500 px-8 py-5 text-primary-800 text-lg font-semibold hover:bg-accent-600 transition-all"
             >
-              Explore our luxury cabins
+              Explore our luxury rooms
             </a>
           </div>
         </div>
